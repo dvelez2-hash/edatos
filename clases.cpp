@@ -18,10 +18,11 @@ public:
     x = x + dx;
     y = y + dy;
   }
+  int getX() const { return x; }
 };
 
 int main() {
   Point p(3, 7);
   p.move(1, 1);
-  cout <<"daniel" << endl;
+  cout <<"daniel "<< p.getX() << endl;
 }
