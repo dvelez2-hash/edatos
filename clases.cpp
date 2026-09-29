@@ -4,7 +4,7 @@ g++ -o clases clases.cpp
 para ejecutar:
 ./clases
 */
-#include <iostream>
+  #include <iostream>
 
 using namespace std;
 
