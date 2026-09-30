@@ -1,7 +1,8 @@
-  #include <iostream>
+#include <iostream>
 
 using namespace std;
 
 int main() {
-  cout <<"daniel12341 " << endl;
+  cout <<"Vector" << endl;
+  return 0 ;
 }
